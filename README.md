@@ -16,7 +16,7 @@ This project demonstrates how AI tools can:
 
 ### 1. AI-Powered Code Completion (GitHub Copilot)
 - **Goal:** Sort a list of dictionaries using both AI-suggested and manual methods.
-- **File:** `sort_dict_comparison.py`
+- **File:** `task1.py`
 - **Result:** AI-generated code using Python's `sorted()` proved more efficient and maintainable than manual bubble sort.
 
 ### 2. Automated Testing with AI (Selenium)
